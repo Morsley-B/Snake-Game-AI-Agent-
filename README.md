@@ -9,10 +9,10 @@ The environment is complex, requiring the agent to weigh risks from zombies, wal
 
 Objective
 Control a snake to:
-- 🧭 Navigate a 50x50 grid
-- 🍏 Reach apples before other agents
-- 💀 Avoid zombies and other snakes
-- 🧠 Make real-time decisions in adversarial situations
+-  Navigate a 50x50 grid
+-  Reach apples before other agents
+-  Avoid zombies and other snakes
+-  Make real-time decisions in adversarial situations
 
 Features
 -  **Breadth-First Search (BFS)** for shortest-path navigation to apples
